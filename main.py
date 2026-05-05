@@ -21,7 +21,7 @@ root.configure(bg=BG_COLOR)
 # A label is a widget that displays static text or images
 header = tk.Label(
     root,
-    text="Welcome to My App",          # Text to display
+    text="Welcome to tkinter App",          # Text to display
     font=("Helvetica", 16, "bold"),    # Font family, size, style
     bg=BG_COLOR,                       # Background color (match window)
     fg="#2c3e50"                       # Foreground (text) color
